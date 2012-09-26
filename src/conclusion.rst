@@ -1,7 +1,7 @@
 Conclusion
 ==========
 
-Comme on a pu le voir à travers ces chapitres, l’offre open source est particulièrement large avec des produits de grande qualité aux socles techniques et fonctionnels parmi les meilleurs du marché logiciel. Ainsi faire le choix de l’open source n’est plus vraiment une question mais plutôt une réalité d’office pour la plupart des entreprises.
+Comme on a pu le voir à travers ces chapitres, l’offre open source est particulièrement large avec des produits de grande qualité aux socles techniques et fonctionnels parmi les meilleurs du marché logiciel. Ainsi faire le choix de l’open source n’est plus vraiment une question mais plutôt une réalité qui s'impose pour la plupart des entreprises.
 
 D’ailleurs toutes les études le confirment, l’open source est omniprésent dans l’entreprise. En 2009, une étude de Gartner estimait que 85% des entreprises utilisaient des solutions open source ; un pourcentage surement encore plus important en 2011.
 
