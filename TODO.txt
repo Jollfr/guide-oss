@@ -1,11 +1,8 @@
 TODO
 ====
 
-- Projets de CS:
-  - Prelude
-  - Vigilo
 
-- technos issus des projets de R&D du GTLL ou améliorée dans un projet
+- Technos issus des projets de R&D du GTLL ou améliorées dans un projet
   - Codendi
   - FusionForge
   - Novaforge
@@ -17,3 +14,29 @@ TODO
   - SlapOS
   - Squale
   - Squash
+
+- Technos des membres
+  - Wakanda
+  - GNAT pro
+  - Mioga
+  - CaMaRis
+  - Quotero
+  - Prelude
+  - Vigilo
+  - Kanopya
+  - OBM
+  - Maarch
+  - TypeRex
+  - QGIS
+  - PyWPS
+  - GRASS
+  - Wiki at Work
+  - Trackr
+  - TCHIN!
+  - Plone
+  - Posh
+  - Ubiq
+  - Restlet
+  - co-ment
+  - Glinkr
+  - Patchwork
