@@ -5,4 +5,15 @@ TODO
   - Prelude
   - Vigilo
 
--
+- technos issus des projets de R&D du GTLL ou améliorée dans un projet
+  - Codendi
+  - FusionForge
+  - Novaforge
+  - GNATcoverage
+  - GNATtemulator
+  - Qemu
+  - ZODB
+  - OfficeJS
+  - SlapOS
+  - Squale
+  - Squash
